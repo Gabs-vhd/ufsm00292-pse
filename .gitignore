@@ -1,0 +1,4 @@
+*.o
+*.exe
+resultados_testes.txt
+.vscode/
